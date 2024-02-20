@@ -1,0 +1,4 @@
+,Disaster_Type,year,month,day,location,insured_dmg,date
+0,Drought,2012,6,1,Illinois,18.88,2012-06-01
+1,Wildfire,2017,6,1,California,10.61,2017-06-01
+2,Storm,2021,8,26,Louisiana,36.0,2021-08-26
